@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/rec">
+        <file>boroughs-of-new-york-city-map.jpg</file>
+        <file>download.png</file>
+        <file>png1.jpg</file>
+        <file>png2.jpg</file>
+        <file>download.jpeg</file>
+        <file>picz.qrc</file>
+    </qresource>
+</RCC>
